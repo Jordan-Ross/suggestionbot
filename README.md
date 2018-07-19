@@ -19,7 +19,9 @@ Edit settings.json, adding your token/clientid
 
 In discord, message the bot the following to add regexes:
 
---regex--replacement\_string
+``--regex--replacement\_string``
+
+or, change command_regex in settings.json, group 1 being the regex and group 2 the replacement text.
 
 ## Contributing
 
