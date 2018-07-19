@@ -6,7 +6,7 @@ Discord bot that "replaces" text using regex.
 
 ```
 shards install
-crystal build src/suggestionbot --release
+crystal build src/suggestionbot.cr --release
 ```
 
 Edit settings.json, adding your token/clientid
