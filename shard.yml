@@ -1,0 +1,17 @@
+name: suggestionbot
+version: 0.1.0
+
+authors:
+  - your-name-here <your-email-here>
+
+targets:
+  suggestionbot:
+    main: src/suggestionbot.cr
+
+crystal: 0.25.1
+
+dependencies:
+        discordcr:
+                github: meew0/discordcr
+
+license: MIT

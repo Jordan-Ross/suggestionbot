@@ -1,0 +1,8 @@
+{
+    "regexes": { 
+        "": "" 
+    },
+    "command_regex":"^--(.+)--(.*)",
+    "token":"Bot <token_here>",
+    "client_id":"<client_id_here>"
+}
