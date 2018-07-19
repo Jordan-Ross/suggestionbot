@@ -18,6 +18,7 @@ Edit settings.json, adding your token/clientid
 ```
 
 In discord, message the bot the following to add regexes:
+
 --regex--replacement\_string
 
 ## Contributing
